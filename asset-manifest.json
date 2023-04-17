@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dom-rf-demo/static/css/main.268edbcf.css",
+    "main.js": "/dom-rf-demo/static/js/main.e7b4064f.js",
+    "index.html": "/dom-rf-demo/index.html",
+    "main.268edbcf.css.map": "/dom-rf-demo/static/css/main.268edbcf.css.map",
+    "main.e7b4064f.js.map": "/dom-rf-demo/static/js/main.e7b4064f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268edbcf.css",
+    "static/js/main.e7b4064f.js"
+  ]
+}
