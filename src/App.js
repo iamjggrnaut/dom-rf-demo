@@ -10,8 +10,8 @@ function App() {
         <Navpanel />
         <Router>
           <Routes>
-            <Route path='/dom-rf' element={<Main />}/>
-            <Route path='*' element={<Navigate to={'/dom-rf'} replace/> } />
+            <Route path='/dom-rf-demo' element={<Main />}/>
+            <Route path='*' element={<Navigate to={'/dom-rf-demo'} replace/> } />
           </Routes>
         </Router>
     </div>
